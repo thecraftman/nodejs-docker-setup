@@ -10,5 +10,5 @@ COPY ./ ./
 RUN npm install
 
 # Default command
-CMD ["npm", "start"
+CMD ["npm", "start"]
 
