@@ -7,7 +7,7 @@ WORKDIR /usr/app
 # Install some dependencies
 COPY ./package.json ./]
 COPY ./ ./ 
-RUN npm install
+RUN npm instal
 
 # Default command
 CMD ["npm", "start"]
