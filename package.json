@@ -1,6 +1,6 @@
 {
     "dependencies": {
-      "express": "*
+      "express": "*"
     },
     "scripts": {
       "start": "node index.js"
