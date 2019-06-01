@@ -2,7 +2,7 @@
 FROM node:alpine
 
 
-WORKDIR /usr/ap
+WORKDIR /usr/app
 
 # Install some dependencies
 COPY ./package.json ./]
